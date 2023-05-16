@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">禁用日志访问请求</string>
+    <string name="xposed_desc">自动同意应用访问设备日志 (Android 13+)</string>
+</resources>

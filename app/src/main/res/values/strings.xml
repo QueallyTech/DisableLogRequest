@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DisableLogRequest</string>
+    <string name="xposed_desc">Automatic approve for app to access device logs (Android 13+)</string>
+</resources>
